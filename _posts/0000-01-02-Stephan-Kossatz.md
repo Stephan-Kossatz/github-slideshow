@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-SK Test
+Test anederungen
 USe the left arrow to go back!
